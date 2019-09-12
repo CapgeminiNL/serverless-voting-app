@@ -1,1 +1,1 @@
-## Placeholder for Frontend
+# Frontend for serverless-voting app
